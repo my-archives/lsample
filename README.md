@@ -1,4 +1,0 @@
-lsample
-------------
-
-Lua C Sample.
